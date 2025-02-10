@@ -1,1 +1,1 @@
-# python-for-data-science
+# Python-for-DataScience
